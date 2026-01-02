@@ -1,0 +1,5 @@
+{
+  "name": "OmniScore Piano: The Beethoven Glitch",
+  "description": "A high-fidelity musical IDE and playback engine for the OmniScore DSL, featuring a custom synthesizer and real-time notation parser.",
+  "requestFramePermissions": []
+}
